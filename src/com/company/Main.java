@@ -6,7 +6,7 @@ public class Main {
 
         Menu.loginMenu();
         Admin admin = new Admin();
-
+        System.out.println();
 
 
     }
